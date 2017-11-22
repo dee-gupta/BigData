@@ -17,7 +17,3 @@ Within each xml file, there is a “<date>” tag which indicates the date of a 
 
 **wordcount_setdiff_spark.py**
 Implemented WordCount and SetDifference in Spark
-=======
-# BigData
-Big data analytics with spark and map reduce.
->>>>>>> 8da44305d9b31759a9c10e777e8728bc6af31d35
