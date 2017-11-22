@@ -1,2 +1,2 @@
-# CSE545_BigData
-Bigdata Analytics CSE545 SBU
+# BigData
+Big data analytics with spark and map reduce.
